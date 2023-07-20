@@ -1,0 +1,5 @@
+# Ignore pastes and temporary files
+*.jpg
+*.JPG
+*.db
+vgg_trained.h5
